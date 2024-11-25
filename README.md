@@ -30,4 +30,4 @@ To run the project, you need:
 ## **Setup**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/ankigit1/credit-card-fraud-spark-hdfs
